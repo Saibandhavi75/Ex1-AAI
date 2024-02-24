@@ -3,6 +3,7 @@
 <H3> Experiment 1</H3>
 <H3>DATE:</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
+
 ## Aim :
     To create a bayesian Network for the given dataset in Python
 ## Algorithm:
@@ -165,8 +166,8 @@ plt.axis("off")
 plt.show()
 ```
 ## Output:
-''' ![image](https://github.com/Saibandhavi75/Ex1-AAI/assets/94208895/2150c156-0e86-45bc-a611-ea6cb60a96bd)
- '''
+![image](https://github.com/Saibandhavi75/Ex1-AAI/assets/94208895/2150c156-0e86-45bc-a611-ea6cb60a96bd)
+ 
 ## Result:
    Thus a Bayesian Network is generated using Python
 
