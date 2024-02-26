@@ -1,7 +1,7 @@
 <H3> Name : Aruru Sai bandhavi</H3>
 <H3>Register No: 212221240006</H3>
 <H3> Experiment 1</H3>
-<H3>DATE:</H3>
+<H3>DATE:22/02/2024</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ## Aim :
@@ -149,9 +149,9 @@ pos = {0: (-1, -2), 1: (-1, 0.5), 2: (1, 0.5), 3: (0, -1)}
 options = {
     "font_size": 16,
     "node_size": 4000,
-    "node_color": "green",
-    "edgecolors": "blue",
-    "edge_color": "black",
+    "node_color": "magenta",
+    "edgecolors": "black",
+    "edge_color": "blue",
     "linewidths": 5,
     "width": 5,}
 
@@ -166,8 +166,9 @@ plt.axis("off")
 plt.show()
 ```
 ## Output:
-![image](https://github.com/Saibandhavi75/Ex1-AAI/assets/94208895/2150c156-0e86-45bc-a611-ea6cb60a96bd)
+![image](https://github.com/Saibandhavi75/Ex1-AAI/assets/94208895/311ab879-dcab-468f-89e4-824673ed5622)
+
  
 ## Result:
-   Thus a Bayesian Network is generated using Python
+Thus a Bayesian Network is generated using Python
 
